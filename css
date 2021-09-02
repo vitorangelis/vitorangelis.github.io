@@ -1,0 +1,157 @@
+#title {
+  background-color: #C2B8A3;
+  height: 350px;
+}
+
+#navbar {
+  padding-top: 0;
+  height: 50px;
+  width: 100%;
+  background-color: #C2B8A3;
+  margin-top: 0;
+}
+
+#about-me {
+  background-color: #C2B8A3;
+}
+
+.conteiner-fluid {
+  padding: 3% 10%;
+  padding-bottom: 0;
+}
+
+.barra {
+  color: #A19882;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+h2 {
+  padding-bottom: 40px;
+}
+
+.navbar {
+  padding: 0 0;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #A19882;
+}
+
+.nav-item {
+  padding: 0 18px;
+  width: auto;
+
+}
+
+
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #A19882;
+}
+
+.title-image {
+  width: 80%;
+}
+
+.row {
+  padding: 40px 40px 50px 40px;
+}
+
+.feature-box {
+  padding: 12px;
+}
+
+.content-image {
+  width: 100%;
+}
+
+.contact {
+  padding-left: 50px;
+  padding-top: 100px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+}
+
+.message {
+  color: grey;
+  text-align: left;
+}
+
+.about-image {
+  width: 100%;
+}
+
+.about-text {
+  color: black;
+}
+
+p {
+  color: #FEF7DC;
+}
+
+.footer {
+  background-color: #C2B8A3;
+  height: 50px;
+}
+
+.footer-paragraph {
+  color: #A19882;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.about {
+  padding-bottom: 48px;
+}
+
+.form-control {
+  margin-bottom: 15px;
+  width: 5px;
+}
+
+.fab {
+  display: inline-block;
+}
+
+.insta {
+  color: #A19882;
+}
+
+h4 {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.contatos {
+  padding-left: 200px;
+}
+
+.link {
+  text-decoration: none;
+  color: #A19882;
+
+}
+
+.sobre {
+  color: #FEF7DC;
+}
+
+.legenda {
+  color: grey;
+  text-align: left;
+  text-decoration: none;
+}
+
+.titulo {
+  font-weight: 600;
+}
